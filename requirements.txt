@@ -1,0 +1,7 @@
+aiogram
+langchain
+langchain_openai
+termcolor
+psycopg2
+asyncpg
+telebot
